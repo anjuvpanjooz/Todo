@@ -1,0 +1,12 @@
+.banner{
+       border: 0;
+       top: 0;
+       height: 180px;
+       background: rgba(12, 140, 89, 0.6);
+}
+.banner-text{
+top:50%;
+right:50%;
+position:absolute;
+transform:transform;
+}
